@@ -1,0 +1,22 @@
+/* ===== Base Styles ===== */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+  background: linear-gradient(135deg, #0f172a, #1e3a8a);
+  color: #f1f5f9;
+  padding-top: 50px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
